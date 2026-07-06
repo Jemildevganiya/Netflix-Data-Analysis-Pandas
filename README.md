@@ -1,23 +1,23 @@
 # Netflix Data Analysis with Pandas
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a hands-on practice of **Python**, **NumPy**, and **Pandas** using the Netflix Titles dataset.
 
 The project includes **60+ real-world data analysis tasks**, covering everything from basic DataFrame operations to advanced data cleaning and analysis.
 
-## 📂 Dataset
+##  Dataset
 
 - Netflix Titles Dataset (CSV)
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
 - NumPy
 - Jupyter Notebook / VS Code
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Loading CSV files
 - Data Exploration
@@ -31,7 +31,7 @@ The project includes **60+ real-world data analysis tasks**, covering everything
 - Data Analysis
 - Exporting Cleaned Data
 
-## 📈 Practice Tasks
+##  Practice Tasks
 
 - Beginner (10 Tasks)
 - Filtering (10 Tasks)
@@ -42,7 +42,7 @@ The project includes **60+ real-world data analysis tasks**, covering everything
 - String Operations (5 Tasks)
 - Advanced Challenges (10 Tasks)
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 After completing this project, you will be able to:
 
@@ -52,14 +52,14 @@ After completing this project, you will be able to:
 - Use GroupBy and Pivot Tables effectively
 - Analyze large datasets using Pandas
 
-## 📁 Files
+##  Files
 
 - `netflix_titles.csv`
 - `Netflix_Data_Analysis.ipynb` or `Netflix_Data_Analysis.py`
 - `netflix_cleaned.csv`
 
-## ⭐ Author
+##  Author
 
-**Jemil Devgania**
+**Jemil Devganiya**
 
-B.Tech IT Student | Python | Data Analysis | Full Stack Developer
+B.Tech IT Student | Python | Data Analysis
